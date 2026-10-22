@@ -595,13 +595,3 @@ The following packages are in `package.json` but not currently used in the sourc
 ## License
 
 This is a final year project demonstration. For medical emergencies, please contact local emergency services.
-
-## Contact
-
-**Federal Urdu University of Arts, Science and Technology**
-
-Developed by: Muhammad Sajid, Muhammad Owais Raza, Razaq Khalid Rao, Muhammad Raheel
-
----
-
-*This project is part of an academic capstone project and is not intended for production use in healthcare settings.*
